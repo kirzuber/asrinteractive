@@ -43,7 +43,7 @@ li{
 	height: 50%;
 	z-index: 900;
 	/* display: none; */
-	background-image: url(../images/continuingTitle.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/continuingTitle.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
@@ -56,14 +56,14 @@ li{
 	left: 25%;
 	top: 25%;
 	z-index: 801;
-	background-image: url(../images/Words_ASRCanada.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/Words_ASRCanada.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
 	display: none;
 	opacity: 0;
 	cursor: pointer;
-	
+
 	color: white;
 	font-weight: bold;
 	text-align: center;
@@ -76,14 +76,14 @@ li{
 	left: 25%;
 	top: 25%;
 	z-index: 801;
-	background-image: url(../images/Words_ASRGlobal.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/Words_ASRGlobal.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
 	display: none;
 	opacity: 0;
 	cursor: pointer;
-	
+
 	color: white;
 	font-weight: bold;
 	text-align: center;
@@ -96,14 +96,14 @@ li{
 	left: 25%;
 	top: 25%;
 	z-index: 801;
-	background-image: url(../images/Words_PwCCanada.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/Words_PwCCanada.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
 	display: none;
 	opacity: 0;
 	cursor: pointer;
-	
+
 	color: white;
 	font-weight: bold;
 	text-align: center;
@@ -116,14 +116,14 @@ li{
 	left: 25%;
 	top: 25%;
 	z-index: 801;
-	background-image: url(../images/Words_PwCGlobal.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/Words_PwCGlobal.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
 	display: none;
 	opacity: 0;
 	cursor: pointer;
-	
+
 	color: white;
 	font-weight: bold;
 	text-align: center;
@@ -145,7 +145,7 @@ li{
 	position: relative;
 	height: 200px;
 	width: 100%;
-	background-image: url(../images/overlayHeadBG.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/overlayHeadBG.png);
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size:cover;
@@ -209,7 +209,7 @@ li{
 	background-color: #875a27;
 	opacity: 0.57;
 	cursor: pointer;
-	background-image: url(../images/closeX.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/closeX.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 20px 20px;
@@ -242,7 +242,7 @@ li{
 	left: 0px;
 	height: 600px;
 	width: 100%;
-	background-image: url(../images/ASR_background_sky.jpg);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/ASR_background_sky.jpg);
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size:cover;
@@ -255,7 +255,7 @@ li{
 	height: 50%;
 	width: 100%;
 	background-color: green;
-	background-image: url(../images/ASR_background_ground.jpg);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/ASR_background_ground.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size:cover;
@@ -271,7 +271,7 @@ li{
 	left: 0px;
 	height: 120px;
 	width: 100%;
-	background-image: url(../images/ASR_background_Trees.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/ASR_background_Trees.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size:cover;
@@ -283,7 +283,7 @@ li{
 	left: 0px;
 	height: 400px;
 	width: 450px;
-	background-image: url(../images/ASR_background_Mountain1.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/ASR_background_Mountain1.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -294,7 +294,7 @@ li{
 	right: 0px;
 	height: 400px;
 	width: 750px;
-	background-image: url(../images/ASR_background_Mountain2.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/ASR_background_Mountain2.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -327,7 +327,7 @@ li{
 	left: -350px;
 	height: 300px;
 	width: 1550px;
-	background-image: url(../images/river.gif);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/river.gif);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -337,7 +337,7 @@ li{
 	left: 240px;
 	height: 100px;
 	width: 170px;
-	background-image: url(../images/basecampTents.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/basecampTents.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	cursor: pointer;
@@ -349,26 +349,26 @@ li{
 	left: -350px;
 	height: 400px;
 	width: 690px;
-	background-image: url(../images/roadToHere.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/roadToHere.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 #JourneySign{
 	position: absolute;
-	
+
 	top: -112px;
 	left: 35px;
 	height: 225px;
 	width: 150px;
-	
+
 	/*
 	top: 45px;
 	left: 310px;
 	height: 225px;
 	width: 150px;
 	*/
-	
-	background-image: url(../images/JourneyMileStones.png);
+
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/JourneyMileStones.png);
 	background-repeat: no-repeat;
 	background-size:contain;
 }
@@ -517,7 +517,7 @@ li{
     height:100px;
 	left: -130px;
 	top: 84px;
-	background-image: url(../images/legoPlane.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/legoPlane.png);
 	background-size: contain;
 	background-repeat: no-repeat;
     -webkit-animation: slide1 25s linear;
@@ -530,7 +530,7 @@ li{
     height:100px;
 	right: 130px;
 	top: 20px;
-	background-image: url(../images/summitWithinReach.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/summitWithinReach.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -541,7 +541,7 @@ li{
     height:200px;
 	right: 220px;
 	top: 70px;
-	background-image: url(../images/pwcBalloon.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/pwcBalloon.png);
 	background-size: contain;
 	background-repeat: no-repeat;
     -webkit-animation: floater 5s ease infinite;
@@ -553,7 +553,7 @@ li{
 	right: -150px;
 	height: 170px;
 	width: 300px;
-	background-image: url(../images/RiverBoat.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/RiverBoat.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	-webkit-animation: floater2 2s ease infinite;
@@ -561,7 +561,7 @@ li{
 .cloud{
 	position: absolute;
 	/* background-color: white; */
-	background-image: url(../images/theCloud.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/theCloud.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -618,7 +618,7 @@ li{
 }
 
 #layer-one {
-	background-image: url(../images/2Mountains.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/2Mountains.png);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: contain;
@@ -652,7 +652,7 @@ li{
 	width: 250px;
 	height: 90px;
 	z-index: 0;
-	background-image: url(../images/banner_PwCGlobal.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/banner_PwCGlobal.png);
 	background-repeat: no-repeat;
 	background-position: center Top;
 	background-size: contain;
@@ -665,7 +665,7 @@ li{
 	width: 250px;
 	height: 90px;
 	z-index: 0;
-	background-image: url(../images/banner_ASRGlobal.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/banner_ASRGlobal.png);
 	background-repeat: no-repeat;
 	background-position: center Top;
 	background-size: contain;
@@ -679,7 +679,7 @@ li{
 	width: 250px;
 	height: 90px;
 	z-index: 0;
-	background-image: url(../images/banner_PwCCanada.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/banner_PwCCanada.png);
 	background-repeat: no-repeat;
 	background-position: center Top;
 	background-size: contain;
@@ -694,7 +694,7 @@ li{
 	width: 100%;
 	height: 140px;
 	z-index: 0;
-	background-image: url(../images/banner_ASRCanada.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/banner_ASRCanada.png);
 	background-repeat: no-repeat;
 	background-position: center Top;
 	background-size: contain;
@@ -703,7 +703,7 @@ li{
 }
 #layer-two {
     /* background: green; */
-	background-image: url(../images/BigMountain.png);
+	background-image: url(https://raw.githubusercontent.com/kirzuber/asrinteractive/master/images/BigMountain.png);
 	background-repeat: no-repeat;
 	background-position: center 65px;
 	background-size: contain;
@@ -749,7 +749,7 @@ li{
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
-    
+
     /* Position the tooltip */
     position: absolute;
     z-index: 999;
@@ -759,7 +759,7 @@ li{
 }
 
 #basecamp .tooltiptext{
-	width: 200px;	
+	width: 200px;
     bottom: 110%;
     margin-left: -90px;
 	z-index: 100;
